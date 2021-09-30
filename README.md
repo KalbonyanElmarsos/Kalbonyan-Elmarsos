@@ -19,22 +19,22 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![66.6%](https://progress-bar.dev/66/?title=Done)
+![0%](https://progress-bar.dev/0/?title=Done)
 <br />
 - ## Programming Foundations series and HTML and CSS from Linkdin Learning
 
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021` `2h 6m 40s` - 01 - [Programming Foundations: Fundamentals]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021` `2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021` `2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021` `1h 45m 30s` - 04 - [Programming Foundations: Algorithms]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021` ` 2h 20m 56s` - 05 - [Programming Foundations: Data Structures]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021` `1h 44m 23s` - 06 - [Programming Foundations: Design Patterns]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `1h 25m 15s` - 07 - [Programming Foundations: Databases]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `in progress` `00/00/2021-->00/00/2021` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021`  ` 2h 55m 49s` - 10 - [Git Essential Training: The Basics]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` `00/00/2021-->00/00/2021` ` 2h 45m 37s` - 11 -[HTML Essential Training]()
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `4h 29m 7s` - 12- [CSS Essential Training]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 45m 30s` - 04 - [Programming Foundations: Algorithms]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 20m 56s` - 05 - [Programming Foundations: Data Structures]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 55m 49s` - 10 - [Git Essential Training: The Basics]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 45m 37s` - 11 -[HTML Essential Training]()
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 4h 29m 7s` - 12- [CSS Essential Training]()
     <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-24h27m-blue">
@@ -47,9 +47,9 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `29h 30m` - 13 - The Modern JavaScript Bootcamp 
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `39h` - 14 - The Complete React Developer Course (w/ Hooks and Redux)
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `35h` - 15 - The Complete Node.js Developer Course (3rd Edition)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - The Modern JavaScript Bootcamp 
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `39h` - 14 - The Complete React Developer Course (w/ Hooks and Redux)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 15 - The Complete Node.js Developer Course (3rd Edition)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue">
 <br />
@@ -60,8 +60,8 @@
 <span id="AWS"></span>
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
 ![0%](https://progress-bar.dev/0/?title=Done)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `7h` - 16 - AWS Certified Cloud Practitioner 2020 
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `00/00/2021-->00/00/2021` `35h` - 17 - AWS Certified Solutions Architect Associate (SAA-C02) 
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `7h` - 16 - AWS Certified Cloud Practitioner 2020 
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `35h` - 17 - AWS Certified Solutions Architect Associate (SAA-C02) 
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-42h-blue">
 <br />
@@ -73,4 +73,4 @@
 
 # Learn How to Make serverless web applications
 ![0%](https://progress-bar.dev/0/?title=Done)
-- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` `00/00/2021-->00/00/2021` - 18 - Serverless Stack (SST)
+- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` - 18 - Serverless Stack (SST)
