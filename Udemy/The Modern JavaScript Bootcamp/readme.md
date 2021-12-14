@@ -1,4 +1,4 @@
-# The Complete React Developer Course 
+# The Modern JavaScript Bootcamp
 <br>
 
 Thank you Osama Zinhom for helping us <br>
