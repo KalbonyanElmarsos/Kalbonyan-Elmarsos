@@ -33,7 +33,7 @@
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 10 - [Learning GitHub](Linkedin-Learning/Learning-GitHub)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](Udemy/Build-Responsive-Real-World-Websites-with-HTML-and-CSS)
+    - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](Udemy/Build-Responsive-Real-World-Websites-with-HTML-and-CSS)
 
     <br />
 
@@ -47,11 +47,18 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
+## JavaScript - Select one of these 2 courses to complete
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `39h` - 14 - [The Complete React Developer Course](Udemy/The%20Complete%20React%20Developer%20Course)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](Udemy/The-Complete-JavaScript-Course-2022-From-Zero-to-Expert!)
+## ReactJs - Select one of these 2 courses to complete
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](Udemy/React-The-Complete-Guide-incl-Hooks-React-Router-Redux) 
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)
+](Udemy/Complete-React-Developer-in-2022-Redux-Hooks-GraphQL)
+## NodeJs - Select one of these 2 courses to complete
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](Udemy/Complete-NodeJS-Developer-in-2022-GraphQL-MongoDB-more)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue">
+<!--<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue"> -->
 <br />
 
 - - - -
