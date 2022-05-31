@@ -1,9 +1,7 @@
 # Serverless-Stack-project
 [Serverless-Stack-Guide](https://serverless-stack.com/#guide)
 
-## code a Todo app with serverless function
-
-## Peoject
+## Project
 [code](Serverless-project)
 
 ## Demo
