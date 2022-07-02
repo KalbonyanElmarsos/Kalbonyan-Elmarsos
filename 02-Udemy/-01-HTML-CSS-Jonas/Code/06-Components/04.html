@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Pagination</title>
+    <style>
+      :root {
+        --main-color: #2b8a3e;
+        --text-color: #343a40;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Inter", sans-serif;
+        color: var(--text-color);
+        line-height: 1;
+        display: flex;
+        justify-content: center;
+      }
+      .pagination {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        margin-top: 200px;
+      }
+
+      .btn {
+        border: 1px solid var(--main-color);
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        background: none;
+        cursor: pointer;
+      }
+
+      .btn:hover {
+        background-color: var(--main-color);
+      }
+
+      .btn:hover .btn-icon {
+        stroke: #fff;
+      }
+
+      .btn-icon {
+        height: 24px;
+        width: 24px;
+        stroke: var(--main-color);
+      }
+
+      .link:link,
+      .link:visited {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        color: var(--text-color);
+        text-decoration: none;
+        height: 36px;
+        width: 36px;
+        border-radius: 50%;
+      }
+
+      .link:hover,
+      .link:active,
+      .link.link--active {
+        background-color: var(--main-color);
+        color: #fff;
+      }
+      .dots {
+        color: #868e96;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="pagination">
+      <button class="btn">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="btn-icon"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M15 19l-7-7 7-7"
+          />
+        </svg>
+      </button>
+      <a href="#" class="link">1</a>
+      <a href="#" class="link">2</a>
+      <a href="#" class="link link--active">3</a>
+      <a href="#" class="link">4</a>
+      <a href="#" class="link">5</a>
+      <a href="#" class="link">6</a>
+      <span class="dots">...</span>
+      <a href="#" class="link">23</a>
+      <button class="btn">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="btn-icon"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M9 5l7 7-7 7"
+          />
+        </svg>
+      </button>
+    </div>
+  </body>
+</html>

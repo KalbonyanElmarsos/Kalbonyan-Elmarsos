@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carousel</title>
+    <style>
+      :root {
+        --main-color: #2b8a3e;
+        --text-color: #343a40;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Inter", sans-serif;
+        color: var(--text-color);
+        line-height: 1;
+      }
+      img{
+        height: 200px;
+        transform: scale(1.6);
+        border-radius: 12px;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.5);
+      }
+      .carousel{
+        background-color: var(--main-color);
+        width: 800px;
+        margin: 100px auto;
+        border-radius: 8px;
+        color: #fff;
+        padding: 32px 48px 32px 86px;
+        display: flex;
+        align-items: center;
+        gap :86px;
+        position: relative;
+      }
+      .text{
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 1.5;
+        color: #c3fae8 ;
+      }
+      .author{
+        font-size: 14px;
+        color: #c3fae8 ;
+        margin-bottom: 4px;
+      }
+      .job{
+        font-size: 12px;
+        color: #c3fae8 ;
+      }
+      .btn{
+        background-color: #fff;
+        border: none;
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        top: 50%;
+        transform: translate(0,-50%);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+        cursor: pointer;
+      }
+      svg{
+        width: 24px;
+        height: 24px;
+        stroke: var(--main-color);
+      }
+      .btn-right{
+        left: 0;
+        left: -20px;
+      }
+      .btn-left{
+        right: -20px;
+      }
+      .dots{
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%,32px);
+        display: flex;
+        gap: 12px;
+      }
+      .dot{
+        width: 12px;
+        height: 12px;
+        background-color: #fff;
+        border: 2px solid var(--main-color);
+        border-radius: 50%;
+        cursor: pointer;
+      }
+      .active{
+        background-color: #087f5b;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="carousel">
+      <img src="maria.jpg" alt="maria" />
+      <blockquote>
+        <p class="text">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
+          vel, deserunt delectus fugit rem libero neque quisquam quos maiores
+          facilis aperiam perspiciatis explicabo harum quas earum hic sunt eaque
+          ipsam.
+        </p>
+        <p class="author">Maria de Almeida</p>
+        <p class="job">Senior Product Manager at EDP</p>
+      </blockquote>
+      <button class="btn btn-right" >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+        </svg>
+      </button>
+      <button class="btn btn-left" >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+        </svg>
+      </button>
+      <div class="dots">
+        <button class="dot active">&nbsp;</button>
+        <button class="dot ">&nbsp;</button>
+        <button class="dot">&nbsp;</button>
+        <button class="dot">&nbsp;</button>
+        <!-- <button>s</button> -->
+      </div>
+    </div>
+  </body>
+</html>

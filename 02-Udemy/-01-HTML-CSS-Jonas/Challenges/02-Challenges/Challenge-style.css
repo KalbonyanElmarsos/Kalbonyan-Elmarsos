@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.container{
+  border: 3px solid black;
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  background-color: rgb(238, 237, 237);
+  padding: 10px;
+}
+.price {
+  font-size: 30px;
+}
+.free {
+  font-size: 18px;
+  color: rgb(104, 101, 101);
+}
+a {
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+  margin-bottom: 15px;
+}
+button {
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+

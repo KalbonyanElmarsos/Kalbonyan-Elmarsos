@@ -1,0 +1,166 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  background-color: #ccc;
+  border-top: 10px solid #1098ad;
+  position: relative;
+}
+.container {
+  width: 800px;
+  /* margin-right:auto;
+  margin-left:auto; */
+  margin: 0 auto;
+}
+article {
+  margin-bottom: 60px;
+}
+aside {
+  background-color: #f7f7f7;
+  border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad;
+  padding: 50px 0;
+  width: 500px;
+}
+header {
+  padding: 20px;
+  background-color: #f7f7f7;
+  margin-bottom: 60px;
+  /* height: 88px; */
+}
+.nav {
+  text-align: center;
+}
+.nav a {
+  background-color: rgb(134, 193, 211);
+  color: #444444;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+.nav a:last-child {
+  margin-right: 0;
+}
+.post-head {
+  margin-bottom: 60px;
+}
+h1,
+h2,
+h3,
+p,
+li {
+  font-family: sans-serif;
+  color: #444444;
+}
+h1,
+h2,
+h3 {
+  color: #1098ad;
+}
+h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-style: italic;
+}
+h1::first-letter {
+  margin-right: 5px;
+  font-style: normal;
+}
+h2 {
+  font-size: 35px;
+  margin-bottom: 60px;
+}
+.second-title {
+  position: relative;
+}
+.second-title::after {
+  content: "Top";
+  background-color: #ffe70e;
+  font-size: 16px;
+  font-weight: bold;
+  color: #444;
+  display: inline-block;
+  padding: 5px 10px;
+  position: absolute;
+  top: -10px;
+  right: -15px;
+}
+h3 {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+/* h3 + p::first-line{
+  color: #1098ad;
+} */
+.post-img {
+  width: 50%;
+  height: auto;
+}
+ul,
+ol {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+li {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+footer p {
+  font-size: 15px;
+}
+#copyright {
+  font-size: 17px;
+}
+.related {
+  font-size: 18px;
+  font-weight: bold;
+}
+.related-ul {
+  list-style: none;
+}
+
+li:first-child {
+  font-weight: bold;
+}
+li:last-child {
+  font-style: italic;
+  margin-bottom: 0;
+}
+li:nth-child(2) {
+  color: darkblue;
+}
+
+article p:first-of-type {
+  color: darkblue;
+}
+/* Links */
+a {
+  color: #1f7481;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* a:visited{} */
+
+a:active {
+  background-color: black;
+  color: white;
+}
+
+.like {
+  font-size: 22px;
+  padding: 10px;
+  cursor: pointer;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  border: 2px solid #1098ad;
+  border-radius: 6px;
+}

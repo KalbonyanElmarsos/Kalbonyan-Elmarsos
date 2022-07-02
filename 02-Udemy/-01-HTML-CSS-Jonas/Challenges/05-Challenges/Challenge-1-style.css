@@ -1,0 +1,96 @@
+body {
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 20px;
+}
+.container {
+  border: 3px solid black;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+}
+h1 {
+  text-align: center;
+  background-color: rgb(238, 237, 237);
+  padding: 10px;
+}
+.price {
+  font-size: 30px;
+}
+.free {
+  font-size: 18px;
+  color: rgb(104, 101, 101);
+}
+.sale {
+  background-color: #ec2f2f;
+  color: #fff;
+  font-size: 12px;
+  padding: 7px 15px;
+  /* width: fit-content; */
+  display: inline-block;
+  text-align: center;
+  position: absolute;
+  top: -25px;
+  left: -30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+  margin-bottom: 15px;
+}
+button {
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+.color {
+  background-color: #ec2f2f;
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+.aqua {
+  background-color: aqua;
+}
+.brown {
+  background-color: brown;
+}
+.blue {
+  background-color: blue;
+}
+.black {
+  background-color: black;
+}
+.green {
+  background-color: green;
+}
+.content{
+  float: right;
+}
+.content-price{
+  float: left;
+  padding: 0 30px;
+}
+.contet-details{
+  float: right;
+  padding: 0 30px;
+
+}
