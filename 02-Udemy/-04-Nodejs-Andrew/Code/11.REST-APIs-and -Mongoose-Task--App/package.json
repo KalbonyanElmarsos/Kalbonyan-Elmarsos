@@ -1,0 +1,18 @@
+{
+  "name": "10.mongodb-and-promises-task--app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^3.7.3",
+    "mongoose": "^6.4.0",
+    "validator": "^10.9.0"
+  }
+}

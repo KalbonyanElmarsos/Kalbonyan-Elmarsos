@@ -1,0 +1,20 @@
+{
+  "name": "17.real-time-web-application-with-socketio-cha--app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.0",
+    "express": "^4.18.1",
+    "socket.io": "^2.2.0"
+  },"engines": {
+    "node": "16.x"
+  }
+}

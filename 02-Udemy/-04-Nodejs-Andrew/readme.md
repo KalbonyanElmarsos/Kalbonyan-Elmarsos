@@ -10,14 +10,14 @@
 - [Live Demo]()
 ### Chat App
 - [Project-code](./Projects/Chat-App)
-- [Live Demo]()
+- [Live Demo](https://chatv1-app.herokuapp.com/))
 
 ---
 ## Code
-[Code](Code)
+[Code](,/Code)
 
 ---
 [Course-Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://www.udemy.com/certificate/UC-cad850bc-ba60-4853-851d-bde2c4583488/)
 

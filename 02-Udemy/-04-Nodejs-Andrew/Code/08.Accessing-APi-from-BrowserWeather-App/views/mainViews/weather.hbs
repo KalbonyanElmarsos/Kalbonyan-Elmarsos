@@ -1,0 +1,29 @@
+{{>head}}
+     {{>header}}
+
+   <div class="main_content">
+    <h2>Just tell us your search value </h2>
+  <form>
+    <input class="input_search" placeholder="location/address" />
+    <button>Search</button>
+<br/>
+<br/>
+<br/>
+
+
+<p class="loading"></p>
+<p class="api_data">observation_time:</p>
+    <span class="observation_time"></span>
+<p class="api_data">temperature:</p>
+    <span class="temperature"></span>
+<p class="api_data">weather_descriptions:</p>
+    <span class="weather_descriptions"></span>
+<p class="api_data">wind_speed:</p>
+    <span class="wind_speed"></span>
+<p class="api_data">pressure:</p>
+    <span class="pressure"></span>
+
+  </form>
+   </div>
+<script src="./js/index.js"></script>
+  {{>footer}}

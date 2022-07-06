@@ -1,0 +1,17 @@
+{
+  "name": "06.asynchronous-nodej-weather--app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "request": "^2.88.2",
+    "yargs": "^17.5.1"
+  }
+}

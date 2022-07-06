@@ -1,1 +1,3 @@
-# The Complete Node.js Developer Course (3rd Edition)
+# 😎Section Notes
+
+## [weather-api project](https://farag-weather-api.herokuapp.com/)
