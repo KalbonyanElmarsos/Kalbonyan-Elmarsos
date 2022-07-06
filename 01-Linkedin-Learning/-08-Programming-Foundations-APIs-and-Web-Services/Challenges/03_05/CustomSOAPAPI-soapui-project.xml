@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="f063601e-17ea-4769-b542-f3ce25416c81" activeEnvironment="Default" name="CustomSOAPAPI" resourceRoot="" soapui-version="5.4.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:WsdlInterface" id="8b610f6f-13b5-4d06-83a3-3032b5ffbc3f" wsaVersion="NONE" name="ApplicationServiceSOAPSoapBinding" type="wsdl" bindingName="{http://soap.keysoft.com.java.main.src/}ApplicationServiceSOAPSoapBinding" soapVersion="1_1" anonymous="optional" definition="http://localhost:8080/javaee-7.0/ApplicationServiceSOAP?wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="http://localhost:8080/javaee-7.0/ApplicationServiceSOAP?wsdl"><con:part><con:url>http://localhost:8080/javaee-7.0/ApplicationServiceSOAP?wsdl</con:url><con:content><![CDATA[<wsdl:definitions name="ApplicationServiceSOAP" targetNamespace="http://soap.keysoft.com.java.main.src/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://soap.keysoft.com.java.main.src/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http">
+  <wsdl:types>
+    <xs:schema elementFormDefault="unqualified" targetNamespace="http://soap.keysoft.com.java.main.src/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="getAll" type="tns:getAll"/>
+      <xs:element name="getAllResponse" type="tns:getAllResponse"/>
+      <xs:complexType name="getAll">
+        <xs:sequence/>
+      </xs:complexType>
+      <xs:complexType name="getAllResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="getAllResponse">
+    <wsdl:part element="tns:getAllResponse" name="parameters"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getAll">
+    <wsdl:part element="tns:getAll" name="parameters"></wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="IApplicationService">
+    <wsdl:operation name="getAll">
+      <wsdl:input message="tns:getAll" name="getAll"></wsdl:input>
+      <wsdl:output message="tns:getAllResponse" name="getAllResponse"></wsdl:output>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ApplicationServiceSOAPSoapBinding" type="tns:IApplicationService">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="getAll">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getAll">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getAllResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ApplicationServiceSOAP">
+    <wsdl:port binding="tns:ApplicationServiceSOAPSoapBinding" name="ApplicationServicePort">
+      <soap:address location="http://localhost:8080/javaee-7.0/ApplicationServiceSOAP"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://localhost:8080/javaee-7.0/ApplicationServiceSOAP</con:endpoint></con:endpoints><con:operation id="2f38b684-aba1-4f96-97c9-4f5345aacbbe" isOneWay="false" action="" name="getAll" bindingOperationName="getAll" type="Request-Response" outputName="getAllResponse" inputName="getAll" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="28f2b10f-3c16-432a-8ec1-2308cb28b605" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:8080/javaee-7.0/ApplicationServiceSOAP</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap="http://soap.keysoft.com.java.main.src/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <soap:getAll/>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://soap.keysoft.com.java.main.src/IApplicationService/getAll"/><con:wsrmConfig version="1.2"/></con:call></con:operation></con:interface><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/></con:soapui-project>

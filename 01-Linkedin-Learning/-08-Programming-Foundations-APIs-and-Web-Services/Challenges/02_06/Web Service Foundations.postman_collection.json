@@ -1,0 +1,53 @@
+{
+	"info": {
+		"name": "Web Service Foundations",
+		"_postman_id": "e8da9224-704d-8422-526c-ab0cbfaccef7",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://official-joke-api.herokuapp.com/random_joke",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "https://official-joke-api.herokuapp.com/random_joke",
+					"protocol": "https",
+					"host": [
+						"official-joke-api",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"random_joke"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "http://localhost:8080/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						""
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
