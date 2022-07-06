@@ -1,1 +1,5 @@
-# The Complete JavaScript Course 2022: From Zero to Expert!
+# 😎Section Notes
+
+## 😍when you store object in local storage and restore it again, it lost any prototype chaining
+
+## 🐳🐳[Maptify-Desktop](https://maptify.netlify.app/)

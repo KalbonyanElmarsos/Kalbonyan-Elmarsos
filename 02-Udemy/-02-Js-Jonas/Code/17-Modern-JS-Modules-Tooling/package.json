@@ -1,0 +1,18 @@
+{
+  "name": "17-modern-js-modules-tooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.22.5",
+    "leaflet": "^1.8.0",
+    "lodash-es": "^4.17.21",
+    "parcel": "^2.5.0"
+  }
+}

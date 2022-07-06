@@ -1,1 +1,5 @@
-# The Complete JavaScript Course 2022: From Zero to Expert!
+# 😎😎Section Notes
+
+## 😍toFixed() string
+
+### 🐳🐳[Bankitfy-project](https://bankitfy.netlify.app)
