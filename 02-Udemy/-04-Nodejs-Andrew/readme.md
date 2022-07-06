@@ -7,17 +7,17 @@
 - [Project-code](./Projects/Task-Manager-API)
 ### Weather App
 - [Project-code](./Projects/Weather-App)
-- [Live Demo]()
+- [Live Demo](https://farag-weather-api.herokuapp.com/)
 ### Chat App
 - [Project-code](./Projects/Chat-App)
-- [Live Demo](https://chatv1-app.herokuapp.com/))
+- [Live Demo](https://chatv1-app.herokuapp.com/)
 
 ---
 ## Code
-[Code](,/Code)
+[Code](./Code)
 
 ---
 [Course-Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-cad850bc-ba60-4853-851d-bde2c4583488/)
+![Certificate-image](./node-certificate.PNG)
 
