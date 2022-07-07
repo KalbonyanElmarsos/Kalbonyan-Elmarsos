@@ -7,26 +7,22 @@
 - [Section 3 Code](./Projects/Expenses-app/S03-project)
 - [Section 4 Code](./Projects/Expenses-app/S04-project/)
 - [Section 5 Code](./Projects/Expenses-app/S04-project/)
-- [Final-Project Code](./Projects/Expenses-app/Final-project/)
 
   <br/>
 
 - [Section 3 Project Live Demo]()
 - [Section 4 Project Live Demo]()
 - [Section 5 Project Live Demo]()
-- [Final Project Live Live Demo]()
 
 ### goals app (S6-S7)
 
 - [Section 6 Code](./Projects/goals-app/S06-project/)
 - [Section 7 Code](./Projects/goals-app/S07-project/)
-- [Final-Project Code](./Projects/goals-app/Final-project/)
 
 <br/>
 
 - [Section 6 Project Live Demo]()
 - [Section 7 Project Live Demo]()
-- [Final Project Live Live Demo]()
 
 ### Section 8-9 Project
 
@@ -38,31 +34,24 @@
 - [Project-code](./Projects/Login-app-s10/)
 - [Live Demo]()
 
-### Login-app (S11)
+### Order-food App (S11)
 
-- [Project-code](./Projects/Login-app-S10)
+- [Project-code](./Projects/order-food-app/S11-project/)
 - [Live Demo]()
 
-### Order-food App (S12/S17)
+### Section 12 Project
 
-- [Section 12 Code](./Projects/order-food-app/S12-project/)
-- [Section 17 Code](./Projects/order-food-app/S17-project/)
-- [Final-Project Code](./Projects/order-food-app/Final-project/)
+- [Project-code](./Projects/S12-project)
+- [Live Demo]()
 
-<br/>
+### Section 13 Project
 
-- [Section 12 Project Live Demo]()
-- [Section 17 Project Live Demo]()
-- [Final Project Live Live Demo]()
+- [Project-code](./Projects/S13-project)
+- [Live Demo]()
 
 ### movies app(S14)
 
 - [Project-code](./Projects/movies-app)
-- [Live Demo]()
-
-### Timer-app(S15)
-
-- [Project-code](./Projects/timer)
 - [Live Demo]()
 
 ### Tasks app with firebase(S15)
@@ -74,6 +63,11 @@
 
 - [Project-code](./Projects/form-app)
 - [Live Demo]()
+
+### Order-food App (S17)
+
+- [Project Code](./Projects/order-food-app/S17-project/)
+- [Final Project Live Live Demo]()
 
 ### Redux Counter(S18)
 
@@ -142,4 +136,4 @@
 
 ![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
 <br>
-Thank you [@abdelrhman-ahmed-kamal](https://github.com/abdelrhman-ahmed-kamal) for helping us to write this readme 
+Thank you [@abdelrhman-ahmed-kamal](https://github.com/Abdelrhman-ahmed-kamal) and [@mahmoud-farag](https://github.com/mahmoud-farag) for helping us to write this readme
