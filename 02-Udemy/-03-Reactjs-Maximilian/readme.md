@@ -104,11 +104,6 @@
 - [Project-code](./Projects/Products-app)
 - [Live Demo]()
 
-### Test-app(S26)
-
-- [Project-code](./Projects/test-app/)
-- [Live Demo]()
-
 ### todo-app-TS(S27)
 
 - [Project-code](./Projects/todo-app-TS)
