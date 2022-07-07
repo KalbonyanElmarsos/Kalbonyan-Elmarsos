@@ -28,14 +28,9 @@
 - [Section 7 Project Live Demo]()
 - [Final Project Live Live Demo]()
 
-### Section 8 Project
+### Section 8-9 Project
 
-- [Project-code](./Projects/section-8)
-- [Live Demo]()
-
-### Section 9 Project
-
-- [Project-code](./Projects/section-9)
+- [Project-code](./Projects/section-8-9-project)
 - [Live Demo]()
 
 ### Login-app (S10)
