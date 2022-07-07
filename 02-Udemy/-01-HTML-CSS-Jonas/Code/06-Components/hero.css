@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} /* main color:#087f5b
+   secondry color:#868e96
+*/
+/*
+SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+FONT SIZE SYSTEM (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+*/
+body {
+  font-family: "Roboto", sans-serif;
+}
+header {
+  background-image: linear-gradient(
+      rgba(92, 92, 92, 0.2),
+      rgba(92, 92, 92, 0.2)
+    ),
+    url(hero.jpg);
+
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 24px;
+  padding-top: 20px;
+  color: #fff;
+}
+.title {
+  min-height: 250px;
+  width: 400px;
+  position: absolute;
+  top: 40%;
+  left: 28%;
+  color: #fff;
+  transform: translate(-50%, -50%);
+}
+.title h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  line-height: 1.1;
+}
+.title p {
+  font-size: 24px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+a:link,
+a:visited {
+  margin-top: 10px;
+  display: inline-block;
+  border-radius: 9px;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #d9480f;
+  color: #fff;
+  text-decoration: none;
+  padding: 16px 32px;
+}
+section h2 {
+  margin-top: 10px;
+  font-size: 40px;
+}
+section p {
+  font-size: 18px;
+  margin-top: 20px;
+  line-height: 1.5;
+}

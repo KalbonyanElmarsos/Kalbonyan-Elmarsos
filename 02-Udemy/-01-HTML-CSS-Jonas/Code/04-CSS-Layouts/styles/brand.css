@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 25px;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.shoes {
+  width: 20%;
+  height: 10%;
+}
+.article {
+  margin-top: 20px;
+  border: 5px solid #000;
+  padding: 0 20px;
+  position: relative;
+}
+.article .logo {
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  background-color: red;
+  padding: 10px 15px;
+}
+.article ul {
+  margin-left: 20px;
+}
+.article__title {
+  margin-bottom: 20px;
+  background-color: #999;
+  text-transform: uppercase;
+  text-align: center;
+}
+.article__p1 {
+  color: #555;
+}
+.article__btn {
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  width: 100%;
+  height: 60px;
+}
+.colors {
+  margin-top: 15px;
+}
+.colors div {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+}
+.colors div:first-child {
+  background-color: red;
+}
+.colors div:nth-child(2) {
+  background-color: black;
+}
+.colors div:nth-child(3) {
+  background-color: green;
+}
+.colors div:nth-child(4) {
+  background-color: orange;
+}
+.colors div:nth-child(5) {
+  background-color: blue;
+}
+.article__btn:hover {
+  color: red;
+  background-color: orange;
+}
+a:link:hover {
+  text-decoration: none;
+}
+/* *** float layout***
+*********************** */
+/* .shoes {
+  float: left;
+}
+.layout1 {
+  padding-left: 20px;
+  float: left;
+  width: 40%;
+}
+.layout2 {
+  float: right;
+  width: 34%;
+}
+.layout {
+  background-color: orange;
+}
+.price {
+  float: left;
+}
+.article__p1 {
+  float: right;
+}
+.paragraph {
+  margin-top: 40px;
+  clear: both;
+} */
+/* *** float layout***
+*********************** */
+/* ******flexbox layout************* */
+/* .row {
+  display: flex;
+  gap: 10px;
+}
+.layout1 {
+  flex: 1  1 100px;
+  font-size: 20px;
+}
+.layout {
+  display: flex;
+  background-color: red;
+  justify-content: space-between;
+}
+.layout2 {
+  font-size: 20px;
+}
+.layout2 ul {
+  list-style: none;
+} */
+
+/* ******flexbox layout************* */
+/* *********  grid layout ****************** */
+
+/* *********  grid layout ****************** */
