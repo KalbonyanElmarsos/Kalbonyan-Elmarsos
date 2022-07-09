@@ -11,10 +11,10 @@
 
   <br/>
 
-- [Section 3 Project Live Demo]()
-- [Section 4 Project Live Demo]()
-- [Section 5 Project Live Demo]()
-- [Final Project Live Live Demo]()
+- [Section 3 Project Live Demo](https://react-course-section3.netlify.app/)
+- [Section 4 Project Live Demo](https://react-course-section4.netlify.app/)
+- [Section 5 Project Live Demo](https://react-course-section5.netlify.app/)
+- [Final Project Live Live Demo](https://react-course-section5.netlify.app/)
 
 ### goals app (S6-S7)
 
@@ -24,9 +24,9 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
-- [Final Project Live Live Demo]()
+- [Section 6 Project Live Demo](https://react-course-section6.netlify.app/)
+- [Section 7 Project Live Demo](https://react-course-section7.netlify.app/)
+- [Final Project Live Live Demo](https://react-course-section7.netlify.app/)
 
 ### Section 8 Project
 
@@ -44,8 +44,8 @@
 - [Live Demo](https://react-course-section10.netlify.app/)
 
 ### Login-app (S11)
-
-
+- [Project-code](./Projects/Login-app-S11/)
+- [Live Demo](https://react-course-section11.netlify.app/)
 ### Order-food App (S12/S17)
 
 - [Section 12 Code](./Projects/order-food-app/S12-project/)
@@ -54,9 +54,9 @@
 
 <br/>
 
-- [Section 12 Project Live Demo]()
-- [Section 17 Project Live Demo]()
-- [Final Project Live Live Demo]()
+- [Section 12 Project Live Demo](https://react-course-section11.netlify.app/)
+- [Section 17 Project Live Demo](https://react-course-section17.netlify.app/)
+- [Final Project Live Live Demo](https://react-course-section17.netlify.app/)
 
 ### movies app(S14)
 

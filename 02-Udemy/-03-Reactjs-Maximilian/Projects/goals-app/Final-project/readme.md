@@ -1,1 +1,3 @@
-# React - The Complete Guide (incl Hooks, React Router, Redux)
+# 😎Section Notes
+
+## 🐳🐳 [section-project](https://react-course-section7.netlify.app)
