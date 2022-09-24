@@ -50,6 +50,6 @@
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 
 
-certifcate
+CERTIFICATE
 ![JavaScript](https://user-images.githubusercontent.com/114239399/192108813-3f91f4ec-8951-4648-975a-119218423dfc.jpg)
 
