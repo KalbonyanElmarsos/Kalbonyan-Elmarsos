@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+.head {
+  width: 950px;
+  border: 5px solid black;
+  margin: 50px auto;
+}
+
+.title-1 {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+.price {
+  font-size: 30px;
+}
+
+.free {
+  text-transform: uppercase;
+  color: #444;
+  font-weight: bold;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.more-info:hover,
+.more-info:active {
+  text-decoration: none;
+}
+
+.more-info:link,
+.more-info:visited {
+  color: black;
+}
+
+.title-2 {
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+.list {
+  list-style: circle;
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+.list li {
+  margin-bottom: 10px;
+}
+
+.add-to-cart {
+  border: none;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  font-size: 20px;
+  width: 100%;
+  height: auto;
+  border-top: 5px solid black;
+  padding: 6px;
+}
+
+.add-to-cart:hover {
+  background-color: #fff;
+  color: #000;
+}

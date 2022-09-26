@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <title>Challenge-1</title>
+
+    <style>
+      /*
+        SPACING SYSTEM (px)
+        2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+        FONT SIZE SYSTEM (px)
+        10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+        */
+      /* 
+        MAIN COLOR: #087f5b 
+        GREY COLOR: #343a40
+      */
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      /* ------------------------ */
+      /* GENERAL STYLES */
+      /* ------------------------ */
+      body {
+        font-family: "Inter", sans-serif;
+        color: #343a40;
+        line-height: 1;
+      }
+
+      .container {
+        width: 300px;
+        padding: 5px;
+        font-size: 16px;
+        margin: 200px auto;
+        position: relative;
+      }
+
+      .btn-icon {
+        width: 24px;
+        height: 24px;
+        stroke: #087f5b;
+      }
+
+      .btn-icon:hover {
+        stroke: #fff;
+      }
+
+      .btn--left {
+        margin-right: 18px;
+        position: absolute;
+        right: 100%;
+        top: 0%;
+      }
+
+      .btn--right {
+        margin-left: 18px;
+        position: absolute;
+        left: 100%;
+        top: 0%;
+      }
+
+      .btn {
+        border: 1px solid #087f5b;
+        background-color: #fff;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .btn--left:visited,
+      .btn--left:link,
+      .btn--right:visited,
+      .btn--right:link {
+        width: 28px;
+        height: 28px;
+      }
+
+      .btn--left:hover,
+      .btn--left:active,
+      .btn--right:hover,
+      .btn--right:active {
+        background-color: #087f5b;
+        cursor: pointer;
+      }
+
+      .number {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .el--3 {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #087f5b;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .el--1:hover,
+      .el--2:hover,
+      .el--4:hover,
+      .el--5:hover,
+      .el--6:hover,
+      .el--23:hover {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #087f5b;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="number">
+        <div class="el--1">1</div>
+        <div class="el--2">2</div>
+        <div class="el--3">3</div>
+        <div class="el--4">4</div>
+        <div class="el--5">5</div>
+        <div class="el--6">6</div>
+        <span>...</span>
+        <div class="el--23">23</div>
+      </div>
+      <div>
+        <button class="btn btn--left">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="btn-icon"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="2"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M15 19l-7-7 7-7"
+            />
+          </svg>
+        </button>
+
+        <button class="btn btn--right">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="btn-icon"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="2"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M9 5l7 7-7 7"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </body>
+</html>
