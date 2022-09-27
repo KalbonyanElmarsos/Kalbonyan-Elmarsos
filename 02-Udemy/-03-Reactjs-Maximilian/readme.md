@@ -129,7 +129,7 @@
 
 [Course-Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)<br>
 
-![Certificate]
-(https://user-images.githubusercontent.com/114239399/192563934-b588bf56-8070-4909-97d5-36c69ae7a3de.jpg)
+Certificate
+![React](https://user-images.githubusercontent.com/114239399/192564183-e3b2d008-5ac6-44aa-8b03-61c69aa8effd.jpg)
 
 
