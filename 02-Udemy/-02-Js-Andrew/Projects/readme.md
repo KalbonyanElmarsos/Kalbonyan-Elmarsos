@@ -1,1 +1,0 @@
-# The Modern JavaScript Bootcamp
