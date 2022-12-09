@@ -21,42 +21,36 @@
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
-- ## Programming foundations path and HTML and CSS
+- ## Programming foundations 
 
     - [ ] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
     - [ ] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
-    - [ ] ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](01-Linkedin-Learning/-03-Programming-Foundation-Object-Oriented-Design/)
-    - [ ] ` in progress` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](01-Linkedin-Learning/-04-Programming-Foundations-Data-Structures/)
-    - [ ] ` in progress` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](01-Linkedin-Learning/-05-Programming-Foundations-Algorithms/)
-    - [ ] ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](01-Linkedin-Learning/-06-Programming-Foundations-Design-Patterns/)
-    - [ ] ` in progress` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](01-Linkedin-Learning/-07-Programming-Foundations-Databases/)
-    - [ ] ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
-    - [ ] ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
-    - [ ] ` in progress` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
-    - [ ] ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
-
     <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-59h25m-blue">
 
-#
-- - - -
+<!-- LEARN HTML, CSS, and GitHub -->
+- ## LEARN HTML, CSS, and GitHub 
+![0%](https://progress-bar.dev/0/?title=Done)
+   - [ ] ` in progress` `37h 30m` - 01 - [Build Responsive Real-World Websites with HTML and CSS]()
+   - [ ] ` in progress` `4h` - 02 - [Git: Become an Expert in Git & GitHub]()
+ 
 <!-- MERN -->
-
+![0%](https://progress-bar.dev/0/?title=Done)
 <span id="MERN"></span>
-# MERN Stack
+- # LEARN JAVASCRIPT
+![0%](https://progress-bar.dev/0/?title=Done)
+   - [ ] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ]()
+   - [ ] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript]()
+# LEARN JAVASCRIPT (MERN = MongoDB, Express.js, React.js, NodeJS) 
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
-## JavaScript - Select one of these 2 courses to complete
-- [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
-- [ ]  `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
-## ReactJs - Select one of these 2 courses to complete
-- [ ]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
-- [ ]  `in progress` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](/02-Udemy/-03-Reactjs-ZTM)
-## NodeJs - Select one of these 2 courses to complete
-- [ ] `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
-- [ ]  `in progress` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](./02-Udemy/-04-Nodejs-ZTM)
-
+## ReactJs
+- [ ]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)]()
+## NodeJs
+- [ ] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)]()
+## Mern
+- [ ] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS]()
 <!--<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue"> -->
 <br />
 
