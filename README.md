@@ -25,7 +25,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/0/?title=Done)
 <br />
 
 - ## Programming foundations
