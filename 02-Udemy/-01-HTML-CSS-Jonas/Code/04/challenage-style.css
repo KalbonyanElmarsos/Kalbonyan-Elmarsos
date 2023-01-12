@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+/* PRODUCT */
+.product {
+  border: 4px solid black;
+  width: 825px;
+  margin: 50px auto;
+  position: relative;
+
+  display: grid;
+  grid-template-columns: 250px 1fr 1fr;
+  column-gap: 40px;
+}
+
+.product-title {
+  text-align: center;
+  font-size: 22px;
+  background-color: #f7f7f7;
+  text-transform: uppercase;
+  padding: 15px;
+  grid-column: 1 / -1;
+}
+
+/* PRODUCT INFORMATION */
+.product-info {
+  flex: 1;
+  margin-top: 20px;
+}
+
+.product-price {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.product-img {
+  width: 250px;
+  height: auto;
+}
+
+.price {
+  font-size: 24px;
+}
+
+.shipping {
+  font-size: 12px;
+  color: #777;
+  text-transform: uppercase;
+}
+
+h2::before {
+  content: "SALE";
+  color: #f7f7f7;
+  background-color: #e03131;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: bold;
+  display: inline-block;
+  position: absolute;
+  padding: 7px 15px;
+  top: -15px;
+  left: -35px;
+}
+
+.product-description {
+  margin-bottom: 10px;
+}
+
+/* Styling Links */
+.more-info:link,
+.more-info:visited {
+  color: #777;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.more-info:hover,
+.more-info:active {
+  text-decoration: none;
+}
+
+/* COLORS BOX-STYLING */
+.product-colors {
+  display: flex;
+  gap: 10px;
+}
+
+.colors {
+  background-color: #212529;
+  height: 22px;
+  width: 22px;
+}
+
+.color-blue {
+  background-color: #1971c2;
+}
+
+.color-red {
+  background-color: #e03131;
+}
+
+.color-yellow {
+  background-color: #ffa94d;
+}
+
+.color-green {
+  background-color: #82c91e;
+}
+
+.color-brown {
+  background-color: #362405;
+}
+
+/* PRODUCT DETAILS */
+.product-details {
+  flex: 1;
+  margin-top: 20px;
+}
+
+.details-title {
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.details-list {
+  list-style: square;
+  margin-left: 20px;
+}
+
+.details-list li {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+/* BUTTON */
+.add-cart {
+  grid-column: 1 / -1;
+  font-size: 20px;
+  border: none;
+  text-transform: uppercase;
+  color: #f7f7f7;
+  background-color: black;
+  cursor: pointer;
+  width: 100%;
+  padding: 15px;
+  border: 4px solid black;
+}
+
+.add-cart:hover {
+  background-color: #f7f7f7;
+  color: black;
+}
