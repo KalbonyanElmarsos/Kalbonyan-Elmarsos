@@ -25,7 +25,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Learn Programing Fundamentals ,HTMl and CSS
 
-[Done](https://progress-bar.dev/0/?title=Done)
+![Done](https://progress-bar.dev/0/?title=Done)
 <br />
 
 - ## Programming foundations
@@ -39,7 +39,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 <!-- LEARN HTML, CSS, and GitHub -->
 
 - ## LEARN HTML, CSS, and GitHub
-  [100%](https://progress-bar.dev/0/?title=Done)
+  ![100%](https://progress-bar.dev/0/?title=Done)
   - [X] ` in progress` `37h 30m` - 01 - [Build Responsive Real-World Websites with HTML and CSS]()
   - [X] ` in progress` `4h` - 02 - [Git: Become an Expert in Git & GitHub]()
         <br />
