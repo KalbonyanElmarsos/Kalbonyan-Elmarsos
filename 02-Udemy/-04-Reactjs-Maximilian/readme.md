@@ -1,12 +1,14 @@
 # React - The Complete Guide (incl Hooks, React Router, Redux)
 
+---
+
 ## Projects
 
 ### expenses-app (S3-S5)
 
-- [Section 3 Code](./Projects/Expenses-app/S03-project)
-- [Section 4 Code](./Projects/Expenses-app/S04-project/)
-- [Section 5 Code](./Projects/Expenses-app/S05-project/)
+- [Section 3 Code](./Projects/01-Expenses-app/S03-project)
+- [Section 4 Code](./Projects/01-Expenses-app/S04-project/)
+- [Section 5 Code](./Projects/01-Expenses-app/S05-project/)
 
   <br/>
 
@@ -16,112 +18,117 @@
 
 ### goals app (S6-S7)
 
-- [Section 6 Code](./Projects/goals-app/S06-project/)
-- [Section 7 Code](./Projects/goals-app/S07-project/)
-
-<br/>
+- [Section 6 Code](./Projects/02-goals-app/S06-project/)
+- [Section 7 Code](./Projects/02-goals-app/S07-project/)
+  <br/>
 
 - [Section 6 Project Live Demo]()
 - [Section 7 Project Live Demo]()
 
 ### Section 8-9 Project
 
-- [Project-code](./Projects/section-8-9-project)
+- [Project-code](./Projects/03-section-8-9-project)
 - [Live Demo]()
 
 ### Login-app (S10)
 
-- [Project-code](./Projects/Login-app-s10/)
+- [Project-code](./Projects/04-Login-app-s10/)
 - [Live Demo]()
 
 ### Order-food App (S11)
 
-- [Project-code](./Projects/order-food-app/S11-project/)
+- [Project-code](./Projects/05-order-food-app/S11-project/)
 - [Live Demo]()
 
 ### Section 12 Project
 
-- [Project-code](./Projects/S12-project)
+- [Project-code](./Projects/06-S12-project)
 - [Live Demo]()
 
 ### Section 13 Project
 
-- [Project-code](./Projects/S13-project)
+- [Project-code](./Projects/07-S13-project)
 - [Live Demo]()
 
 ### movies app(S14)
 
-- [Project-code](./Projects/movies-app)
+- [Project-code](./Projects/08-movies-app)
 - [Live Demo]()
 
 ### Tasks app with firebase(S15)
 
-- [Project-code](./Projects/task-app-firbase/)
+- [Project-code](./Projects/09-task-app-firbase/)
 - [Live Demo]()
 
 ### Form-app(S16)
 
-- [Project-code](./Projects/form-app)
+- [Project-code](./Projects/10-form-app)
 - [Live Demo]()
 
 ### Order-food App (S17)
 
-- [Project Code](./Projects/order-food-app/S17-project/)
+- [Project Code](./Projects/05-order-food-app/S17-project/)
 - [Final Project Live Live Demo]()
 
 ### Redux Counter(S18)
 
-- [Project-code](./Projects/redux-counter)
+- [Project-code](./Projects/11-redux-counter)
 - [Live Demo]()
 
 ### Redux Cart(S19)
 
-- [Project-code](./Projects/redux-cart)
+- [Project-code](./Projects/12-redux-cart)
 - [Live Demo]()
 
-### Quotes app(S20)
+### Events App(S20, S21)
 
-- [Project-code](./Projects/quotes-app)
+`React + Node`
+
+- [Project-code](./Projects/13-events-app)
 - [Live Demo]()
 
-### Authentication-page(S22)
+### Blog(S22)
 
-- [Project-code](./Projects/Authentication-page)
+- [Project-code](./Projects/14-Blog)
 - [Live Demo]()
 
-### Meetsup app(S23)
+### Meetups app(S23)
 
-- [Project-code](./Projects/meetsup-app)
+- [Project-code](./Projects/15-meetups-app)
 - [Live Demo]()
 
 ### Animation-app (S24)
 
-- [Project-code](./Projects/animation-app)
+- [Project-code](./Projects/16-animation-app)
 - [Live Demo]()
 
 ### Products-app(S25)
 
-- [Project-code](./Projects/Products-app)
+- [Project-code](./Projects/17-Products-app)
 - [Live Demo]()
 
 ### todo-app-TS(S27)
 
-- [Project-code](./Projects/todo-app-TS)
+- [Project-code](./Projects/18-todo-app-TS)
 - [Live Demo]()
 
 ### ingredients-app(S28)
 
-- [Project-code](./Projects/ingredients-app/)
+- [Project-code](./Projects/19-ingredients-app/)
 - [Live Demo]()
 
-### Section 29 Project
+### React Poster(s29)
 
-- [Project-code](./Projects/Section-29/)
+`React + Node`
+
+- [Project-code](./Projects/20-react-poster/)
 - [Live Demo]()
 
 ---
 
 ## Code
+
+##### Assignments included
 
 [code](Code)
 
