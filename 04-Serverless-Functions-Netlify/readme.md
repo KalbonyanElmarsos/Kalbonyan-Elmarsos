@@ -4,6 +4,8 @@
 
 ### Serverless-Vanilla
 
+`Only Functions (1 ~ 3) included in the free course`
+
 - [Project-code](./Projects/Serverless-Vanilla) <br>
 - [Live Demo]()
 
