@@ -94,3 +94,15 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-20h39m-blue">
 <br />
+
+# Projects
+
+![0%](https://progress-bar.dev/0/?title=Done)
+|status| Project  | Technologies | Repository                                    | Demo |
+| ---  | -------- | ------------ | --------------------------------------------- | ---- |
+| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo]() |
+| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo]() |
+| [ ]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo]() |
+| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo]() |
+
+
