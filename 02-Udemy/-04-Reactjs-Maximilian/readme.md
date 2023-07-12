@@ -136,6 +136,8 @@
 
 [Course-Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+
+  ![Certificate](https://github.com/KalbonyanElmarsos/Kalbonyan-Elmarsos/assets/94858304/82e9816d-435e-4b99-a9d8-f28411e06dd5)
+
 <br>
 Thank you [@abdelrhman-ahmed-kamal](https://github.com/Abdelrhman-ahmed-kamal) and [@mahmoud-farag](https://github.com/mahmoud-farag) for helping us to write this readme
